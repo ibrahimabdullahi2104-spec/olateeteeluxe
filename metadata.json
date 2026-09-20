@@ -1,0 +1,6 @@
+{
+  "name": "Olateetee Luxe",
+  "description": "Luxury skincare, cosmetics, and beauty products with seamless WhatsApp ordering and high-resolution collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
